@@ -5,7 +5,7 @@ def extract_mysql_data():
     conn = mysql.connector.connect(
         host="localhost",
         user="root",
-        password="8333080717@Vnr",
+        password="***********",
         database="connecting_python"
     )
 
